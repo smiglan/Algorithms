@@ -12,5 +12,6 @@ Note, that in bubble sort, for 1Ma, 1Mb, 1Mc, only 50000 lines are used due to
 excessive time requirements
 
 ![Alt text](images/bubble_sort_time.jpg?raw=true "Title")
+<img align="left" src="images/bubble_sort_time.jpg">
 
 
