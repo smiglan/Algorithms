@@ -1,5 +1,5 @@
 # Algorithms
- This repository contains code for different algorithms implemented as part of coursework at NCSU
+ This repository contains different algorithms implemented as part of coursework at NCSU
  
 ## __Sorting__
 
