@@ -15,6 +15,8 @@ excessive time requirements. Also, 1Ma, Mb and 1Mc files have 1 million lines wi
 <img align="left" width = 600 src="images/merge_sort_time.JPG">
 <img align="left" width = 600 src="images/quick_sort_time.JPG">
 
+
+
 __Regular Expressions__
 
 Design and implement solutions for the following problems. 
