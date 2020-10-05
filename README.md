@@ -67,9 +67,7 @@ implementation.
 
 ## __ShortestPath using BFS__
 
-Finding the shortest path.
-Consider the image segment shown.
-<img align="center" width = 200 src="images/shortestpath.JPG">
+Finding the shortest path. Consider the image segment shown.
 
 * Input arguments: an image, a predefined set V, two pixel locations p and q
 inside the image, the path type (4-, 8-, or m-path)
