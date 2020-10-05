@@ -12,8 +12,8 @@ Note, that in bubble sort, for 1Ma, 1Mb, 1Mc, only 50000 lines are used due to
 excessive time requirements. Also, 1Ma, Mb and 1Mc files have 1 million lines with different configurations
 
 <img align="center" width = 600 src="images/bubble_sort_time.JPG">
-<img align="left" width = 600 src="images/merge_sort_time.JPG">
-<img align="left" width = 600 src="images/quick_sort_time.JPG">
+<img align="center" width = 600 src="images/merge_sort_time.JPG">
+<img align="center" width = 600 src="images/quick_sort_time.JPG">
 
 
 
