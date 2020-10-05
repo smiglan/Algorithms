@@ -36,7 +36,7 @@ _DIALOG_
 
 To run the script, navigate to the appropriate folder and run the script dialogscript.py
 
-The result of running this script is as follows:
+The result of running this script is as follows:  
 `File output successful with file name outputdracula.txt`     
 `File output successful with file name outputsh.tx`   
 
@@ -46,14 +46,14 @@ _DIALOG SEARCH_
 
 To run the script, navigate to the appropriate folder and run the script dialogsearchscript.py
 
-The result of running this script is as follows:
-`<filename : dracula.txt>`   
-`<search string : red eyes>`   
-`<Found in CHAPTER VII CUTTING FROM "THE DAILYGRAPH," 8 AUGUST>`   
-`<Found in CHAPTER VII CUTTING FROM "THE DAILYGRAPH," 8 AUGUST>`   
-`<Found in CHAPTER XI Lucy Westenra's Diary.>`   
-`<Found in CHAPTER XIX JONATHAN HARKER'S JOURNAL>`   
-`<Found in CHAPTER XXVII MINA HARKER'S JOURNAL>`   
+The result of running this script is as follows:  
+`filename : dracula.txt`   
+`search string : red eyes`   
+`Found in CHAPTER VII CUTTING FROM "THE DAILYGRAPH," 8 AUGUST`   
+`Found in CHAPTER VII CUTTING FROM "THE DAILYGRAPH," 8 AUGUST`   
+`Found in CHAPTER XI Lucy Westenra's Diary.`   
+`Found in CHAPTER XIX JONATHAN HARKER'S JOURNAL`   
+`Found in CHAPTER XXVII MINA HARKER'S JOURNAL`   
 
 ## __Diff using dynamic programming approach to Longest Common Subsequence__
 
