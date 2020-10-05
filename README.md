@@ -1,7 +1,8 @@
 # Algorithms
  This repository contains code for different algorithms implemented as part of coursework at NCSU
  
-1. __Sorting__
+__Sorting__
+
 In this assignment, 3 sorting algorithms were implemented: bubble sort, quick sort, and
 merge sort and compared again files of different sizes starting from 2500 lines to 1 million lines
 
