@@ -67,7 +67,7 @@ implementation.
 
 ## __ShortestPath using BFS__
 
-Finding the shortest path. Consider the image segment shown.
+Finding the 4-, 8-, or m-shortest path in an image (graph)  
 
 * Input arguments: an image, a predefined set V, two pixel locations p and q
 inside the image, the path type (4-, 8-, or m-path)
