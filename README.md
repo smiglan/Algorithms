@@ -1,7 +1,7 @@
 # Algorithms
  This repository contains code for different algorithms implemented as part of coursework at NCSU
  
-##__Sorting__
+## __Sorting__
 
 In this assignment, 3 sorting algorithms were implemented: bubble sort, quick sort, and
 merge sort and compared again files of different sizes starting from 2500 lines to 1 million lines
@@ -17,7 +17,7 @@ excessive time requirements. Also, 1Ma, Mb and 1Mc files have 1 million lines wi
 
 
 
-##__Regular Expressions__
+## __Regular Expressions__
 
 Design and implement solutions for the following problems. 
 
@@ -55,7 +55,7 @@ Found in CHAPTER XI Lucy Westenra's Diary.
 Found in CHAPTER XIX JONATHAN HARKER'S JOURNAL
 Found in CHAPTER XXVII MINA HARKER'S JOURNAL
 
-##__Diff using dynamic programming approach to Longest Common Subsequence
+## __Diff using dynamic programming approach to Longest Common Subsequence
 
 This assignment had the following three parts:
 * Implement a hash function for strings. Use a modulo function to compress the resulting value to 10 bits, i.e. to be in the range [0, 1023]. 
