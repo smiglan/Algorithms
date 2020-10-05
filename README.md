@@ -11,7 +11,7 @@ Growth of sorting time as a function of data size:
 Note, that in bubble sort, for 1Ma, 1Mb, 1Mc, only 50000 lines are used due to
 excessive time requirements
 
-<img align="left" src="images/bubble_sort_time.JPG">
+<img align="left" width = 100 src="images/bubble_sort_time.JPG">
 <img align="left"src="images/merge_sort_time.JPG">
 <img align="left" src="images/quick_sort_time.JPG">
 
