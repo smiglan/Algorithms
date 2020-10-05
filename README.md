@@ -55,7 +55,7 @@ Found in CHAPTER XI Lucy Westenra's Diary.
 Found in CHAPTER XIX JONATHAN HARKER'S JOURNAL
 Found in CHAPTER XXVII MINA HARKER'S JOURNAL
 
-## __Diff using dynamic programming approach to Longest Common Subsequence
+## __Diff using dynamic programming approach to Longest Common Subsequence__
 
 This assignment had the following three parts:
 * Implement a hash function for strings. Use a modulo function to compress the resulting value to 10 bits, i.e. to be in the range [0, 1023]. 
@@ -64,3 +64,17 @@ the command line and produces a 10-bit hash of each line.
 * Implement the dynamic programming algorithm for diff, using the dynamic programming
 approach to the Longest Common Subsequence problem. Use the code from your hashfile
 implementation. 
+
+## __ShortestPath using BFS__
+
+Finding the shortest path.
+Consider the image segment shown.
+<img align="center" width = 200 src="images/shortestpath.JPG">
+
+* Input arguments: an image, a predefined set V, two pixel locations p and q
+inside the image, the path type (4-, 8-, or m-path)
+* Outputs: the length of the shortest path, and the path (i.e., the sequence of
+pixels)
+
+
+
